@@ -88,9 +88,11 @@ A web application that calculates typing speed and helps users improve their typ
 
 ---
 
-### 🩸 Blood Bank Management System
+### Recruitex
 
-A web-based system designed to manage blood bank information and related records.
+Developed a full-stack web application that connects recruiters and job seekers
+
+.
 
 **Tech Stack:**
 `HTML` `CSS` `JavaScript`
