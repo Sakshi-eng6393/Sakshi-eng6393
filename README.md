@@ -95,7 +95,7 @@ Developed a full-stack web application that connects recruiters and job seekers
 .
 
 **Tech Stack:**
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `TypeScript` `React.js` `Express.js` `PostgresSQL` 
 
 ---
 
