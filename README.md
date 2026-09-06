@@ -1,10 +1,20 @@
-
 <h1 align="center">Hi 👋, I'm Sakshi Gupta</h1>
 
-<h3 align="center">💻 Full Stack Developer | MERN Stack Developer</h3>
+<h3 align="center">
+  💻 Full Stack Developer | MERN Stack Developer
+</h3>
 
 <p align="center">
-  Passionate about building modern, scalable and user-friendly web applications.
+  Passionate about building modern, responsive and user-friendly web applications.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sakshi-eng6393">
+    <img src="https://img.shields.io/badge/GitHub-Sakshi--eng6393-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sakshi-gupta-04132b382/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sakshi%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -15,43 +25,36 @@
 - 💻 Full Stack Developer
 - 🚀 MERN Stack Developer
 - 🌱 Currently improving my Full Stack Development skills
-- 💡 Interested in building real-world web applications
+- 💡 Interested in developing real-world web applications
 - 📚 Always learning new technologies
-- 🤝 Open to collaborating on interesting projects
+- 🤝 Open to collaboration and exciting opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 💻 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools
+### 🔧 Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -60,52 +63,60 @@
 
 ### 🏙️ Smart City Citizens Complaint & Automation System
 
-A web-based system for managing citizen complaints and automating complaint-related processes.
+A web-based application designed to manage citizen complaints and automate complaint-related processes.
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+**Tech Stack:**
+`React.js` `Node.js` `Express.js` `MongoDB`
 
 ---
 
 ### 🎵 MyMusicX
 
-A music-based web application created using modern frontend technologies.
+A music-based web application developed using frontend web technologies.
 
-**Tech Stack:** HTML, CSS, JavaScript
+**Tech Stack:**
+`HTML` `CSS` `JavaScript`
 
 ---
 
 ### ⌨️ Typing Speed Test
 
-A web application that calculates typing speed and performance.
+A web application that calculates typing speed and helps users improve their typing performance.
 
-**Tech Stack:** HTML, CSS, JavaScript
+**Tech Stack:**
+`HTML` `CSS` `JavaScript`
 
 ---
 
 ### 🩸 Blood Bank Management System
 
-A system designed to manage blood bank information and related records.
+A web-based system designed to manage blood bank information and related records.
 
-**Tech Stack:** Web Technologies
+**Tech Stack:**
+`HTML` `CSS` `JavaScript`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi-eng6393&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-eng6393&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi-eng6393&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-eng6393&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Sakshi-eng6393&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-eng6393&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -114,16 +125,22 @@ A system designed to manage blood bank information and related records.
 
 <p align="center">
 
+<a href="https://www.linkedin.com/in/sakshi-gupta-04132b382/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://github.com/Sakshi-eng6393">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+<h3 align="center">
+  ✨ Thanks for visiting my profile! ✨
+</h3>
 
 <p align="center">
-  ⭐ Feel free to check out my repositories and projects.
+  ⭐ Feel free to explore my repositories and projects.
 </p>
